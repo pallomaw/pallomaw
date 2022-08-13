@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pallomaw
-- 👀 I’m interested in design
+- 👀 I’m interested in design (studying it at school)
 - 🌱 I’m currently learning how to build sites
-- 📫 How to reach me @pallomaw on instagram
+- 📫 You can talk to me on instagram as well (@pallomaw)
 
 <!---
 pallomaw/pallomaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
